@@ -15,6 +15,6 @@ python GA_engine.py
 
 ![image](https://github.com/dedekinds/havefun/blob/master/image/jz.png)
 
-
+![image](https://github.com/dedekinds/havefun/blob/master/image/jlq2.png)
 
 
