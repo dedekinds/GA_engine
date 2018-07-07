@@ -1,6 +1,5 @@
 ## GA_engine
-[GA_engine](https://github.com/pikeszfish/GA_engine)是一个采用遗传算法利用多个三角形拟合图片的工具
-
+[GA_engine](https://github.com/pikeszfish/GA_engine)is a tool that uses genetic algorithms to fit images using multiple triangles.
 
 
 ![image](https://github.com/dedekinds/havefun/blob/master/image/chrome.png)
