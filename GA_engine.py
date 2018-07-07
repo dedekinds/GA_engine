@@ -224,10 +224,13 @@ def main():
             parent.draw_it(i)
 
 
+imagename = 'jzm.jpg'
+
 LOOP = 1024
-PREFIX = "/User/pike/GA_engine/aa.png".split('/')[-1].split('.')[0]
+temp = "/GA_engine/"+imagename
+PREFIX = temp.split('/')[-1].split('.')[0]
 PATH = os.path.abspath('.')
-TARGET = "./aa.png"
+TARGET = "./"+imagename
 TRIANGLE_NUM = 100
 
 
