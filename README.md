@@ -6,8 +6,9 @@
 
 ![image](https://github.com/dedekinds/havefun/blob/master/image/githublogo.png)
 
+![image](https://github.com/dedekinds/havefun/blob/master/image/jz.png)
 ### Usage
-You can rewrite image name in the row 228 of `GA_engine.py`. For examlpe, you can change `imagename = 'chrome.png` to `imagename = 'jzm.jpg'`. And then run the command below:
+You can rewrite image name in the row 228 of `GA_engine.py`. For examlpe, you can change `imagename = 'chrome.png` to `imagename = 'abc.jpg'`. And then run the command below:
 ```
 python GA_engine.py
 ```
