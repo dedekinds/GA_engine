@@ -1,5 +1,5 @@
 ## GA_engine
-[GA_engine](https://github.com/pikeszfish/GA_engine) is a tool that uses genetic algorithms to fit images using multiple triangles. BTW, The `Firefox logo` also generated with a simple hill-climbing evolutionary algorithm. It uses about 70 or so triangles to approximate the original image. You can watch this [video](https://www.youtube.com/watch?v=V9qXIgPvWFM) or read this [article](http://songshuhui.net/archives/10462).
+[GA_engine](https://github.com/pikeszfish/GA_engine) is a tool that uses genetic algorithms to fit images using multiple triangles. BTW, The `Firefox logo` also generated with a simple hill-climbing evolutionary algorithm. It uses about 70 or so triangles to approximate the original image. You can watch this [video](https://www.youtube.com/watch?v=V9qXIgPvWFM) or read this [article](https://rogerjohansson.blog/2008/12/07/genetic-programming-evolution-of-mona-lisa/).
 
 There is a [online version](http://alteredqualia.com/visualization/evolve/).
 
